@@ -13,3 +13,4 @@ Javascript, HTML, CSS and a UFO database
 
 ### Example
 ![website](static/images/ss1.png)
+![website](static/images/ss2.png)
