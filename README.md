@@ -10,3 +10,6 @@ Javascript, HTML, CSS and a UFO database
 * Data table: Improve table layout to a more compact design and overall layout.
 * Additional filter for Duration data attribute.
 * A wildcard filter for the comments section can be used to filter based on wildcard or keyword search.
+
+### Example
+![website](static/images/ss1.png)
